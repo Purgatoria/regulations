@@ -5,16 +5,21 @@ Amatör Telsizcilik ve kablosuz haberleşme alanındaki resmi kanun, yönetmelik
 ---
 
 ## İçindekiler
-1. [Tanım](#1-tanım)
-2. [Amaç](#2-amaç)
-3. [Kapsam](#3-kapsam)
-4. [Dayanak](#4-dayanak)
-5. [Kurumlar ve Mevzuat Listesi](#5-kullanım-şartları-ve-sorumluluk-reddi)
-6. [Katkı Şekli](#6-lisans)
-7. [İsimlendirme Biçimi](#7-isimlendirme-biçimi)
-8. [Formatlama Biçimi](#8-Formatlama-biçimi)
-9. [Kullanım Şartları ve Sorumluluk Reddi](#9-kurumlar-ve-mevzuat-listesi)
-10. [Lisans](#9-kurumlar-ve-mevzuat-listesi) 
+1. [Tanım](https://github.com/Purgatoria/regulations#1-tan%C4%B1m)
+2. [Amaç](https://github.com/Purgatoria/regulations#2-ama%C3%A7)
+3. [Kapsam](https://github.com/Purgatoria/regulations#3-kapsam)
+4. [Dayanak](https://github.com/Purgatoria/regulations#4-dayanak)
+5. [Kurumlar ve Mevzuat Listesi](https://github.com/Purgatoria/regulations#5-kurumlar-ve-mevzuat-listesi)
+ 5.1. [ITU](https://github.com/Purgatoria/regulations#51-international-telecommunication-union-itu)
+ 5.2. [IARU](https://github.com/Purgatoria/regulations#52-international-amateur-radio-union-iaru)
+ 5.3. [CEPT](https://github.com/Purgatoria/regulations#53-european-conference-of-postal-and-telecommunications-administrations-cept)
+ 5.4. [BTK](https://github.com/Purgatoria/regulations#54-bilgi-teknolojileri-ve-i%CC%87leti%C5%9Fim-kurumu-btk)
+ 5.5. [KEGM](https://github.com/Purgatoria/regulations#55-k%C4%B1y%C4%B1-emniyeti-genel-m%C3%BCd%C3%BCrl%C3%BC%C4%9F%C3%BC-kegm)
+6. [Katkı Şekli](https://github.com/Purgatoria/regulations#6-katk%C4%B1-%C5%9Fekli)
+8. [İsimlendirme Biçimi](https://github.com/Purgatoria/regulations#7-i%CC%87simlendirme-bi%C3%A7imi)
+9. [Formatlama Biçimi](https://github.com/Purgatoria/regulations#8-formatlama-bi%C3%A7imi)
+10. [Kullanım Şartları ve Sorumluluk Reddi](https://github.com/Purgatoria/regulations#9-kullan%C4%B1m-%C5%9Fartlar%C4%B1-ve-sorumluluk-reddi)
+11. [Lisans](https://github.com/Purgatoria/regulations#10-lisans) 
 
 ---
 
